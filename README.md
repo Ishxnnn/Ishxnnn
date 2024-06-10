@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ishan 👋</h1>
 
 <p align="center">
-🛠️ I am a Software Engineer, Student, and Finance Enthusiast!
+🛠️ I am a Software Engineer and Finance Enthusiast!
 </p>
 
 <p align="center">
