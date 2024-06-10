@@ -1,10 +1,10 @@
 # Hi there, I'm Ishan 👋
 
-I'm a Software Engineer, Student, and Tech Enthusiast!
+I'm a Software Engineer, Student, and Finance Enthusiast!
 
-🚀 I’m currently pursuing a BSMS in Computer Science with a Certificate in Finance at Georgia Tech, and have completed a semester abroad at Technische Universität Berlin.
+🚀 I’m currently pursuing a BS in Computer Science with a Certificate in Finance at Georgia Tech, and have completed a semester abroad at Technische Universität Berlin.
 📧 How to reach me: [ishan2397@gatech.edu](mailto:ishan2397@gatech.edu)
-⚡ Fun fact: I have traveled to 19 countries across 5 continents, which has broadened my understanding and inspired my approach to both life and work.
+⚡ Fun fact: I have traveled to 19 countries across 5 continents!
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ishxnnn)
