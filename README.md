@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Ishan 👋</h1>
 
 <p align="center">
-I'm a Software Engineer, Student, and Finance Enthusiast!
+I am a Software Engineer, Student, and Finance Enthusiast!
 </p>
 
 <p align="center">
-🚀 I’m currently pursuing a BS in Computer Science with a Certificate in Finance at Georgia Tech, and have completed a semester abroad at Technische Universität Berlin.<br>
+🚀 I’m currently studying Computer Science along with Finance at the Georgia Institute of Technology.
+  
 📧 How to reach me: <a href="mailto:ishan2397@gatech.edu">ishan2397@gatech.edu</a><br>
 ⚡ Fun fact: I have traveled to 19 countries across 5 continents!
 </p>
