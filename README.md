@@ -65,5 +65,6 @@
 
 <h2 align="center">📈 Projects</h2>
 <p align="center">
-  Explore my work on <a href="https://github.com/ishxnnn">GitHub (much of my work is in private repositories)</a> and <a href="https://ishanpatel.dev">Portfolio</a>.
+  Explore my work on <a href="https://github.com/ishxnnn">GitHub</a> and <a href="https://ishanpatel.dev">Portfolio</a>. Please note that much of my work is in private repositories on my profile or in the <a href="https://github.com/GTSF-Quantitative-Sector">GTSF Quantitative Sector GitHub</a>.
 </p>
+
