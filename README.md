@@ -14,7 +14,7 @@
 💬 Ask me about my experiences working on trading platforms or machine learning projects!
 </p>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Connect With Me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/ishxnnn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
 <a href="https://github.com/ishxnnn"><img src="https://img.shields.io/badge/GitHub-Follow-black"></a>
