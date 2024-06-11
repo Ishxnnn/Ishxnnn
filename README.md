@@ -1,18 +1,12 @@
 <h1 align="center">Hi there, I'm Ishan 👋</h1>
 
-<p align="center">
 🛠️ I am a Software Engineer and Finance Enthusiast!
-</p>
 
-<p align="center">
-🚀 I’m currently studying Computer Science along with Finance at the Georgia Institute of Technology. <br>
-</p>
-
-<p align="center">
-🔭 I'm passionate about leveraging technology to solve complex problems and make a positive impact. Whether it's developing robust trading algorithms or enhancing machine learning models, I thrive on innovation and continuous learning.<br>
-🌱 I'm currently diving deeper into machine learning and finance, aiming to merge these fields to contribute to the next generation of financial technologies. <br>
+🚀 I’m currently studying Computer Science along with Finance at the Georgia Institute of Technology.
+🔭 I'm passionate about leveraging technology to solve complex problems and make a positive impact. Whether it's developing robust trading algorithms or enhancing machine learning models, I thrive on innovation and continuous learning.
+🌱 I'm currently diving deeper into machine learning and finance, aiming to merge these fields to contribute to the next generation of financial technologies.
 💬 Ask me about my experiences working on trading platforms or machine learning projects!
-</p>
+
 
 <h2 align="center">Connect With Me:</h2>
 <p align="center">
