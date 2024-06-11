@@ -4,7 +4,7 @@
   🛠️ I am a Software Engineer and Finance Enthusiast! <br>
   🚀 I’m currently studying Computer Science along with Finance at the Georgia Institute of Technology. <br>
   🔭 I'm passionate about leveraging technology to solve complex problems and make a positive impact. <br>
-  Whether it's developing robust trading algorithms or enhancing machine learning models, I thrive on innovation and continuous learning. <br>
+  📈 Whether it's developing robust trading algorithms or enhancing machine learning models, I thrive on innovation and continuous learning. <br>
   🌱 I'm currently diving deeper into machine learning and finance, aiming to merge these fields to contribute to the next generation of financial technologies. <br>
   💬 Ask me about my experiences working on trading platforms or machine learning projects!
 </p>
