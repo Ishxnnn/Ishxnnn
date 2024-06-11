@@ -10,6 +10,12 @@
 ⚡ Fun fact: I have traveled to 19 countries across 5 continents!
 </p>
 
+<p align="center">
+🔭 I'm passionate about leveraging technology to solve complex problems and make a positive impact. Whether it's developing robust trading algorithms or enhancing machine learning models, I thrive on innovation and continuous learning. <br>
+🌱 I'm currently diving deeper into machine learning and finance, aiming to merge these fields to contribute to the next generation of financial technologies. <br>
+💬 Ask me about my experiences working on trading platforms, machine learning projects, or any of the 19 countries I've explored!
+</p>
+
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/ishxnnn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
