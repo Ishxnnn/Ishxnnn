@@ -6,7 +6,6 @@
 
 <p align="center">
 🚀 I’m currently studying Computer Science along with Finance at the Georgia Institute of Technology. <br>
-📧 How to reach me: <a href="mailto:ishan2397@gatech.edu">ishan2397@gatech.edu</a> <br>
 ⚡ Fun fact: I have traveled to 19 countries across 5 continents!
 </p>
 
