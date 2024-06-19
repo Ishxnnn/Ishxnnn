@@ -21,7 +21,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS_CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CloudFront">
+  <img src="https://img.shields.io/badge/AWS_DynamoDB-232F3E?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" alt="AWS DynamoDB">
+  <img src="https://img.shields.io/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=amazon-lambda&logoColor=white" alt="AWS Lambda">
+  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="AWS S3">
   <img src="https://img.shields.io/badge/Backtrader-007ACC?style=for-the-badge&logo=backtrader&logoColor=white" alt="Backtrader">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -52,6 +55,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
+
 
 <h2 align="center">💼 Experience</h2>
 <p align="center">
