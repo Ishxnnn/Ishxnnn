@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white" alt="Agile">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Backtrader-007ACC?style=for-the-badge&logo=backtrader&logoColor=white" alt="Backtrader">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
