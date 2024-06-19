@@ -66,3 +66,12 @@
 <p align="center">
   Explore my work on <a href="https://github.com/ishxnnn">GitHub</a> and <a href="https://ishanpatel.dev">Portfolio</a>. Please note that much of my work is in private repositories on my profile or in the <a href="https://github.com/GTSF-Quantitative-Sector">GTSF Quantitative Sector GitHub</a>.
 </p>
+
+<h2 align="center">🏆 Achievements</h2>
+<ul align="center">
+  <li>Highest Honors at Georgia Tech</li>
+  <li>Faculty Honors at Georgia Tech</li>
+  <li>Zell Miller Scholar (Full Tuition)</li>
+  <li>Georgia Club Foundation Scholar</li>
+</ul>
+
