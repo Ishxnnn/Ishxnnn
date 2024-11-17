@@ -70,7 +70,7 @@
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
   Highest Honors at Georgia Tech <br>
-  3x Faculty Honors at Georgia Tech <br>
+  4x Faculty Honors at Georgia Tech <br>
   Zell Miller Scholar (Full Tuition) <br>
   Georgia Club Foundation Scholar <br>
   Class Valedictorian (1/419)
